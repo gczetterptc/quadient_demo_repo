@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+// DEMO COMMENTS
 public class AnalyticsDashboard {
 
     // Fake analytics generator
